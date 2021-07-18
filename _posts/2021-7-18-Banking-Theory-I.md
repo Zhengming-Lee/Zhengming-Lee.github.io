@@ -42,14 +42,14 @@ Required Reserves ($\phi d$) | Equity Capital ($k$)
    5. Equilibrium loans: $$ L(r_L) = L(r)  $$
 4. **Reserve requirements $\phi$**
    1. **Bank balance sheet**: $$l +\phi d=d+b  $$
-   2. Bank profits: $$ \pi=lr_L-dr_D-br +\phi d\bar{r}=\underbrace{ l(r_L-r)}_{profits\ from\ lending}+\underbrace{d[(1-\phi)r+\phi\bar{r}-r_D]}_{profits\ from\ deposits\ taking} $$
+   2. Bank profits: $$ \pi=lr_L-dr_D-br +\phi d\bar{r}=\underbrace{ l(r_L-r)}\_{profits\ from\ lending}+\underbrace{d[(1-\phi)r+\phi\bar{r}-r_D]}\_{profits\ from\ deposits\ taking} $$
    3. Non-remunerated ( $\bar{r}=0 $): $$r_L=r\ and\ r_D=(1-\phi)r $$
    4. Remunerated at the rate $\bar{r}<r$ : $$r_L=r\ and\ r_D=(1-\phi)r+\phi \bar{r} $$
    5. Renumerated at the rate $\bar{r}=r$: $$r_L=r\ and\ r_D=r $$
 5. **Capital requirements $\gamma$**
    1. **Bank balance sheet**: $$l=d+b+k=d+b+\gamma l $$
    2. Shareholders requirement premium $\delta>0$ on equity
-   3. Bank profits: $$ \pi=lr_L-dr_D-br -\gamma l(r+\delta)=\underbrace{ l[r_L-(r+\gamma \delta)]}_{profits\ from\ lending}+\underbrace{d(r-r_D)}_{profits\ from\ deposits\ taking} $$
+   3. Bank profits: $$ \pi=lr_L-dr_D-br -\gamma l(r+\delta)=\underbrace{ l[r_L-(r+\gamma \delta)]}\_{profits\ from\ lending}+\underbrace{d(r-r_D)}\_{profits\ from\ deposits\ taking} $$
    4. Competitive equilibrium: $$  r_L=r+\gamma\delta\ and\ r_D=r $$
    5. **Fixed supply of capital $K$** : 
       1. $\delta$   is determined by $\gamma L(r+\gamma\delta)=K $
@@ -75,7 +75,7 @@ Required Reserves ($\phi d$) | Equity Capital ($k$)
 4. Interbank market where banks borrow and lend at $r$
 5. Fixed amount k of equity capital per bank
 6. Bank $j$ balance sheet $$l_j=d_j+b_j+k$$
-7. Bank $j$ profits $$ \pi_j = l_jr_L-d_jr_D-b_jr=\underbrace{l_j(r_L-r)}_{profits from lending}+\underbrace{d_j(r-r_D)}_{profits from deposit taking}+kr $$
+7. Bank $j$ profits $$ \pi_j = l_jr_L-d_jr_D-b_jr=\underbrace{l_j(r_L-r)}\_{profits from lending}+\underbrace{d_j(r-r_D)}\_{profits from deposit taking}+kr $$
 8. Loan market equilibrium $$\max_{l_j}[(a-bL-r)l_j]\\ FOC:\ a-bL-r-bl_j=0\\ symmetric\ eq.:\ L=\frac{n}{n+1}\frac{a-r}{b}\ and\ r_L=\frac{a+nr}{1+n}\\ Loan\ market\ margin:\ r_L-r= \frac{a-r}{1+n}\\ Profts\ from\ lending:\ \pi_L=(r_L-r)\frac{L}{n}\\ r \uparrow \to  \pi_L \downarrow\ and\ n \uparrow \to \pi_L \downarrow  $$
 
 9. Deposit market equilibrium $$ deposit\ market\ margin:\ r-r_D=\frac{r-c}{1+n}$$ $$ profits\ from\ deposit\ taking:\ \pi_D=(r-r_D)\frac{D}{n}\\ r \uparrow \to  \pi_D \uparrow\ and\ n \uparrow \to \pi_D \downarrow 
