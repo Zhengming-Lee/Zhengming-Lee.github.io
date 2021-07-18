@@ -36,7 +36,7 @@ Required Reserves ($\phi d$) | Equity Capital ($k$)
    3. no intermediation costs
 3. **Benchmark**
    1. Bank balance sheet: $l = d+b$ 
-   2. Bank profits:  $$\pi=lr_L-dr_D-br=\underbrace{l(r_L-r)}_{profits\ from\ lending}+\underbrace{d(r-r_D)}_{profits\ from\ deposit\ taking}$$
+   2. Bank profits:  $$\pi=lr_L-dr_D-br=\underbrace{l(r_L-r)}\_{profits\ from\ lending}+\underbrace{d(r-r_D)}\_{profits\ from\ deposit\ taking}$$
    3. Competitive equilibrium characterized by zero-profit conditions: $$r_L=r\ and\ r_D=r$$
    4. Equilibrium deposits: $$ D(r_D) = D(r)  $$
    5. Equilibrium loans: $$ L(r_L) = L(r)  $$
