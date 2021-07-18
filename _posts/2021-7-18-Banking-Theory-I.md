@@ -80,9 +80,13 @@ Required Reserves ($\phi d$) | Equity Capital ($k$)
 
 9. Deposit market equilibrium 
 
-$$ \text{deposit market margin}:\ r-r_D=\frac{r-c}{1+n} \\
-\text{profits from deposit taking}:\ \pi_D=(r-r_D)\frac{D}{n}\\ r \uparrow \to  \pi_D \uparrow\ and\ n \uparrow \to \pi_D \downarrow 
- \\ r \downarrow \\ \Rightarrow r_L \downarrow, r_D \downarrow\\ \Rightarrow r_L-r \uparrow, r-r_D \downarrow \\ \Rightarrow \pi_L \uparrow, \pi_D \downarrow \\ \Rightarrow \pi = \pi_L+\pi_D+kr ?  $$
+\begin{equation} 
+\displaylines{\text{deposit market margin}:\ r-r_D=\frac{r-c}{1+n} \\
+\text{profits from deposit taking}:\ \pi_D=(r-r_D)\frac{D}{n}\\ 
+r \uparrow \to  \pi_D \uparrow\ \text{and}\ n \uparrow \to \pi_D \downarrow \\
+r \downarrow \Rightarrow r_L \downarrow, r_D \downarrow \Rightarrow r_L-r \uparrow, r-r_D \downarrow  \Rightarrow \pi_L \uparrow, \pi_D \downarrow \\ 
+\Rightarrow \pi = \pi_L+\pi_D+kr ?  }
+\end{equation}
 
 10. Return on Equity (ROE) $$ROE = \frac{\pi}{k} = \frac{\pi_L+\pi_D}{k}+r  $$
 
