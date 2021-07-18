@@ -78,7 +78,10 @@ Required Reserves ($\phi d$) | Equity Capital ($k$)
 7. Bank $j$ profits $$ \pi_j = l_jr_L-d_jr_D-b_jr=\underbrace{l_j(r_L-r)}\_{profits from lending}+\underbrace{d_j(r-r_D)}\_{profits from deposit taking}+kr $$
 8. Loan market equilibrium $$\max_{l_j}[(a-bL-r)l_j]\\ FOC:\ a-bL-r-bl_j=0\\ symmetric\ eq.:\ L=\frac{n}{n+1}\frac{a-r}{b}\ and\ r_L=\frac{a+nr}{1+n}\\ Loan\ market\ margin:\ r_L-r= \frac{a-r}{1+n}\\ Profts\ from\ lending:\ \pi_L=(r_L-r)\frac{L}{n}\\ r \uparrow \to  \pi_L \downarrow\ and\ n \uparrow \to \pi_L \downarrow  $$
 
-9. Deposit market equilibrium $$ deposit\ market\ margin:\ r-r_D=\frac{r-c}{1+n}$$ $$ profits\ from\ deposit\ taking:\ \pi_D=(r-r_D)\frac{D}{n}\\ r \uparrow \to  \pi_D \uparrow\ and\ n \uparrow \to \pi_D \downarrow 
+9. Deposit market equilibrium 
+
+$$ \text{deposit market margin}:\ r-r_D=\frac{r-c}{1+n} \\
+\text{profits from deposit taking}:\ \pi_D=(r-r_D)\frac{D}{n}\\ r \uparrow \to  \pi_D \uparrow\ and\ n \uparrow \to \pi_D \downarrow 
  \\ r \downarrow \\ \Rightarrow r_L \downarrow, r_D \downarrow\\ \Rightarrow r_L-r \uparrow, r-r_D \downarrow \\ \Rightarrow \pi_L \uparrow, \pi_D \downarrow \\ \Rightarrow \pi = \pi_L+\pi_D+kr ?  $$
 
 10. Return on Equity (ROE) $$ROE = \frac{\pi}{k} = \frac{\pi_L+\pi_D}{k}+r  $$
@@ -89,7 +92,7 @@ $$ \nu = \frac{\pi+k}{1+r+\delta}=\frac{1+ROE}{1+r+\delta}k\\  \frac{\nu}{k}=\fr
 12. Introducing capital requirement $k_j \geq \gamma l_j$  : two possible cases if the constraint is binding
    1. banks choose not to raise equity $\to L=nk/\gamma $
    2. banks choose to raise equity, in which case initial shareholders have to pay new shareholders $\delta(\gamma l_j-k) $
-   3. Loan market equilibrium $$ max_{l_j} [(a-bL-r)l_j - \delta max \\{\gamma l_j-k,0\\}] $$
+   3. Loan market equilibrium $$ \max_{l_j} [(a-bL-r)l_j - \delta \max \\{\gamma l_j-k,0\\}] $$
 
 
 # Reference
