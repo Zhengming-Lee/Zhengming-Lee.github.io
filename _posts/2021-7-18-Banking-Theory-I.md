@@ -4,39 +4,40 @@ title: Banking Theory I
 ---
 
 
-Industrial Organization of Banking 
-Model of perfect competition
-Models of market power
-Local monopoly banks (Klein-Monti Model)
-Cournot competition
-Bertrand competition
-Monopolistic competition (Salop model)
-Bank Profitability 
-Market Power, Capital Regulation, and Bank Risk-Taking
-Banks and the Transmission of Monetary Policy
-The Risk-Taking Channel of Monetary Policy
-Regulation of the Basel Committe
+1. Industrial Organization of Banking 
+   1. Model of perfect competition
+   2. Models of market power
+     1. Local monopoly banks (Klein-Monti Model)
+     2. Cournot competition
+     3. Bertrand competition
+     4. Monopolistic competition (Salop model)
+2. Bank Profitability 
+3. Market Power, Capital Regulation, and Bank Risk-Taking
+4. Banks and the Transmission of Monetary Policy
+5. The Risk-Taking Channel of Monetary Policy
+6. Regulation of the Basel Committe
+
 Banks' balance sheet
 
-Model of perfect comeptition
-model setup
-large number of identical banks compete for deposits and loans
-perfect competition with deposit rate r_D  and loan rate r_L  taken as given
-market supply of deposits D(r_D)   
-market demand for loans L(r_L) 
-interbank market where banks can borrow or lend at rate r which is set by central bank 
-Assumptions
-bank loans are riskless, no default
-banks have no equity capital
-no intermediation costs
-Benchmark
-Bank balance sheet: \\l = d+b 
-Bank profits:  \\ \pi=lr_L-dr_D-br=\underbrace{l(r_L-r)}_{profits\ from\ lending}+\underbrace{d(r-r_D)}_{profits\ from\ deposit\ taking}  
-Competitive equilibrium characterized by zero-profit conditions: \\ r_L=r\ and\ r_D=r 
-Equilibrium deposits: \\ D(r_D) = D(r)  
-Equilibrium loans: \\ L(r_L) = L(r)  
-Reserve requirements \phi 
-Bank balance sheet: \\l +\phi d=d+b  
+# Model of perfect comeptition
+1. model setup
+   1. large number of identical banks compete for deposits and loans
+   2. perfect competition with deposit rate $r_D$  and loan rate $r_L$  taken as given
+   3. market supply of deposits $D(r_D)$   
+   4. market demand for loans $L(r_L)$ 
+   5. interbank market where banks can borrow or lend at rate r which is set by central bank 
+2. Assumptions
+   1. bank loans are riskless, no default
+   2. banks have no equity capital
+   3. no intermediation costs
+3. *Benchmark*
+   1. Bank balance sheet: $l = d+b$ 
+   2. Bank profits:  $$ \pi=lr_L-dr_D-br=\underbrace{l(r_L-r)}_{profits\ from\ lending}+\underbrace{d(r-r_D)}_{profits\ from\ deposit\ taking}  $$
+   3. Competitive equilibrium characterized by zero-profit conditions: $$ r_L=r\ and\ r_D=r $$
+   4. Equilibrium deposits: $$ D(r_D) = D(r)  $$
+   5. Equilibrium loans: $$ L(r_L) = L(r)  $$
+4. *Reserve requirements* $\phi$ 
+   1. Bank balance sheet: $$l +\phi d=d+b  $$
 Bank profits: \\ \pi=lr_L-dr_D-br +\phi d\bar{r}=\underbrace{ l(r_L-r)}_{profits\ from\ lending}+\underbrace{d[(1-\phi)r+\phi\bar{r}-r_D]}_{profits\ from\ deposits\ taking} 
 Non-remunerated ( \bar{r}=0 ): \\r_L=r\ and\ r_D=(1-\phi)r 
 Remunerated at the rate \bar{r}<r : \\r_L=r\ and\ r_D=(1-\phi)r+\phi \bar{r} 
