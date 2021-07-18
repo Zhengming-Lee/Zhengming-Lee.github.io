@@ -7,10 +7,10 @@ title: Banking Theory I
 1. Industrial Organization of Banking 
    1. Model of perfect competition
    2. Models of market power
-     1. Local monopoly banks (Klein-Monti Model)
-     2. Cournot competition
-     3. Bertrand competition
-     4. Monopolistic competition (Salop model)
+      1. Local monopoly banks (Klein-Monti Model)
+      2. Cournot competition
+      3. Bertrand competition
+      4. Monopolistic competition (Salop model)
 2. Bank Profitability 
 3. Market Power, Capital Regulation, and Bank Risk-Taking
 4. Banks and the Transmission of Monetary Policy
@@ -52,8 +52,8 @@ Required Reserves ($\phi d$) | Equity Capital ($k$)
    3. Bank profits: $$ \pi=lr_L-dr_D-br -\gamma l(r+\delta)=\underbrace{ l[r_L-(r+\gamma \delta)]}_{profits\ from\ lending}+\underbrace{d(r-r_D)}_{profits\ from\ deposits\ taking} $$
    4. Competitive equilibrium: $$  r_L=r+\gamma\delta\ and\ r_D=r $$
    5. **Fixed supply of capital $K$** : 
-     1. $\delta$   is determined by $\gamma L(r+\gamma\delta)=K $
-     2. bank lending is given by $L = K/\gamma$ , independent of policy rate $r$ 
+      1. $\delta$   is determined by $\gamma L(r+\gamma\delta)=K $
+      2. bank lending is given by $L = K/\gamma$ , independent of policy rate $r$ 
 6. **Intermediation costs $c(d,l)$**
    1. Bank balance sheet: $$ l=d+b$$ 
    2. Bank profits:$$ \pi = lr_L-dr_D-br-c(d,l) = l(r_L-r)+d(r-r_D)-c(d,l) $$
@@ -92,7 +92,7 @@ $$ \nu = \frac{\pi+k}{1+r+\delta}=\frac{1+ROE}{1+r+\delta}k\\  \frac{\nu}{k}=\fr
    3. Loan market equilibrium $$ max_{l_j} [(a-bL-r)l_j - \delta max \{\gamma l_j-k,0\}] $$
 
 
-参考
-^https://www.cemfi.es/~repullo/
-^https://www.cemfi.es/~repullo/
-^https://www.aeaweb.org/articles?id=10.1257/mac.4.2.184
+# Reference
+1. https://www.cemfi.es/~repullo/
+2. https://www.cemfi.es/~repullo/
+3. https://www.aeaweb.org/articles?id=10.1257/mac.4.2.184
