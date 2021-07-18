@@ -66,7 +66,7 @@ Required Reserves ($\phi d$) | Equity Capital ($k$)
 3. Cournot competition (work with inverse supply of deposits r_D(D) and inverse demand for loans r_L(L) : $$ \max_{d_j,l_j}[l_j(r_L(l_j+\sum_{i\neq j}l_i)-r)+d_j(r-r_D(d_j+\sum_{i\neq j}d_i))]\to \\  FOC:\ r_L(L)-r+l_jr_L^{\prime}(L)=0\ and\ r-r_D(D)-d_jr_D^{\prime}(D)=0\\ Symmetric\ eq.:\ r_L(L)-r = \frac{Lr_L^{\prime}(L)}{n}\ and\ r-r_D(D)= \frac{Dr_D^{\prime}(D)}{n} $$
 4. Cournot competition with no interbank market
 5. Bertrand competition (work with supply of deposits $D(r_D)$ and demand for loans $L(r_L)$ ): $$ r_L =r\ and\ r_D = r $$
-6. Monopolistic competition (Circular road model/Salop model): Competition in deposit market where banks invest in an asset that pays an exogenous return $r$, depositors travelling to bank (located on circumference of unit length) involves *travel cost* \ $\mu$ per unit of distance.$$ Intermediation\ margin:\ r-r_D = \frac{\mu}{n}\\ Equilibrium\ bank\ profits:\ \pi(n)=\frac{1}{n}(r-r_D)=\frac{\mu}{n^2} $$
+6. Monopolistic competition (Circular road model/Salop model): Competition in deposit market where banks invest in an asset that pays an exogenous return $r$, depositors travelling to bank (located on circumference of unit length) involves *travel cost*  $\mu$ per unit of distance.$$ Intermediation\ margin:\ r-r_D = \frac{\mu}{n}\\ Equilibrium\ bank\ profits:\ \pi(n)=\frac{1}{n}(r-r_D)=\frac{\mu}{n^2} $$
 
 # Bank Profitability
 1. Cournot competition for loans and deposits among n banks
