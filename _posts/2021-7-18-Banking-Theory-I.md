@@ -26,7 +26,7 @@ Required Reserves ($\phi d$) | Equity Capital ($k$)
 # Model of perfect comeptition
 1. model setup
    1. large number of identical banks compete for deposits and loans
-   2. perfect competition with deposit rate \\(r_D)\\  and loan rate $r_L$  taken as given
+   2. perfect competition with deposit rate $r_D)$  and loan rate $r_L$  taken as given
    3. market supply of deposits $D(r_D)$   
    4. market demand for loans $L(r_L)$ 
    5. interbank market where banks can borrow or lend at rate r which is set by central bank 
