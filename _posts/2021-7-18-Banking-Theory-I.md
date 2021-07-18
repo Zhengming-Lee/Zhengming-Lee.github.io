@@ -62,7 +62,7 @@ Required Reserves ($\phi d$) | Equity Capital ($k$)
 
 # Market Power
 1. Bank balance sheet: $$ l=d+b $$
-2. Local monopoly banks: $$ \displaylines{\max_{r_L,r_D}[L(r_L)(r_L-r)+D(r_D)(r-r_D)]\to\\ FOC: \ \frac{r_L-r}{r_L}=\frac{1}{\epsilon_L}\ and\ \frac{r-r_D}{r_D}=\frac{1}{\epsilon_D}} $$
+2. Local monopoly banks: $$ \max_{r_L,r_D}[L(r_L)(r_L-r)+D(r_D)(r-r_D)]\to\\ FOC: \ \frac{r_L-r}{r_L}=\frac{1}{\epsilon_L}\ and\ \frac{r-r_D}{r_D}=\frac{1}{\epsilon_D} $$
 3. Cournot competition (work with inverse supply of deposits r_D(D) and inverse demand for loans r_L(L) : $$ \max_{d_j,l_j}[l_j(r_L(l_j+\sum_{i\neq j}l_i)-r)+d_j(r-r_D(d_j+\sum_{i\neq j}d_i))]\to \\  FOC:\ r_L(L)-r+l_jr_L^{\prime}(L)=0\ and\ r-r_D(D)-d_jr_D^{\prime}(D)=0\\ Symmetric\ eq.:\ r_L(L)-r = \frac{Lr_L^{\prime}(L)}{n}\ and\ r-r_D(D)= \frac{Dr_D^{\prime}(D)}{n} $$
 4. Cournot competition with no interbank market
 5. Bertrand competition (work with supply of deposits $D(r_D)$ and demand for loans $L(r_L)$ ): $$ r_L =r\ and\ r_D = r $$
