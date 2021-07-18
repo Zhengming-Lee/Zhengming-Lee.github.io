@@ -89,7 +89,7 @@ $$ \nu = \frac{\pi+k}{1+r+\delta}=\frac{1+ROE}{1+r+\delta}k\\  \frac{\nu}{k}=\fr
 12. Introducing capital requirement $k_j \geq \gamma l_j$  : two possible cases if the constraint is binding
    1. banks choose not to raise equity $\to L=nk/\gamma $
    2. banks choose to raise equity, in which case initial shareholders have to pay new shareholders $\delta(\gamma l_j-k) $
-   3. Loan market equilibrium $$ max_{l_j} [(a-bL-r)l_j - \delta max \{\gamma l_j-k,0\}] $$
+   3. Loan market equilibrium $$ max_{l_j} [(a-bL-r)l_j - \delta max \\{\gamma l_j-k,0\\}] $$
 
 
 # Reference
