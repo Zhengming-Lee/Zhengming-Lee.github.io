@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I like history, language and novels!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
+This is the place I want to share my notes and thoughts
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[z.li18@imperial.ac.uk](mailto:z.li18@imperial.ac.uk)
